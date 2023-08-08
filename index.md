@@ -4,7 +4,17 @@ permalink: /
 ---
 
 
-Machine learning models are powerful, but do you know they are also vulnerable to different attacks?  In this course we will start from privacy attacks to different machine learning models.  We will then talk about defenses such as differential privacy.  Finally we will discuss other privacy enhancing technologies.  While the course is a 4-level course (we will also have a semester-long project and we assume you know basic concepts within computer science), junior students are welcome to take the challenge (we will go slowly and provide references so if you are not familiar with some concepts, you can catch up)! Prerequisites only include basic knowledge of coding (Python), algorithms, and probability.
+In a world driven by data science and transformed by machine learning, the questions of security and privacy take center stage. As algorithms become more sophisticated and interconnected, the balance between innovation and protection becomes a thrilling and complex challenge.
+
+Welcome to our seminar course on Special Topics in Data Science, Cyber Security and Privacy – a journey into the future where machine learning meets its most fascinating counterpart: the art of keeping information safe and secure. This course will guide you through a maze of cutting-edge techniques, hidden layers of defense, and the ethical considerations that underpin our digital lives.
+
+From the secret codes that shield our most sensitive data to the unseen algorithms that ensure individuals' privacy, this course offers an exploration that's both broad in scope and deep in its revelations. Whether it's designing robust machine learning models or unveiling the methods that protect the integrity of data, every lesson will unveil a new layer of intrigue.
+
+Join us on this captivating intellectual expedition, and be part of the next generation of innovators, thinkers, and protectors of our digital world. Here, the known meets the unknown, the explicit meets the implicit, and every discovery is a step towards a safer and more transparent future.
+
+Your path to the forefront of security and privacy starts now.
+
+Prerequisites only include basic knowledge of coding (Python), algorithms, and probability.
 
 
 - Instructor: [Tianhao Wang](https://tianhao.wang)
@@ -12,10 +22,11 @@ Machine learning models are powerful, but do you know they are also vulnerable t
 - Time: MWF 10am - 10:45am
 - TA: [Mingtian Tan](wtd3gz@virginia.edu)
 - Discussion: 
-  - [Canvas]() 
+  - [Course Website](https://tianhao.wang/f23-cybersecprivacy/)
+  - [Canvas](https://canvas.its.virginia.edu/courses/77158) 
 - Office Hour
-  - Mingtian: Wed 2pm-3pm Room xx, [Zoom](), and by appointment
-  - Tianhao: Fri 2pm-3pm Room 506, [Zoom](https://virginia.zoom.us/j/95103321825?pwd=d09vN3lDOEhJaUduWGpocURxem80dz09&from=addon), and by appointment
+  - Mingtian: TuTh 2pm-3pm Room xx, [Zoom](), and by appointment
+  - Tianhao: Fri 2pm-3pm Room 506, [Zoom](), and by appointment
 
 
 ## Grading (tentative, subject to change): 
@@ -23,63 +34,50 @@ Machine learning models are powerful, but do you know they are also vulnerable t
 - [Project](project.md) (group of 2: 40%).  Teams can utilize office hours to get feedbacks on the project. 
 
 ## Topics
-1. week 1-3: privacy issues in machine learning
-- privacy attacks and basic defenses to deep learning models 
-  - including preliminaries of machine learning, nlp, graph neural networks, GANs, self-supervise learning, and federated learning)
-  - covering membership inference attack, attribute inference attack, property inference attack, reconstruction attack
+1. privacy and security issues in machine learning
+- preliminaries of machine learning, nlp, graph neural networks, GANs, self-supervise learning, and federated learning
+- attacks and basic defenses to deep learning models, covering: membership inference attack, attribute inference attack, property inference attack, reconstruction attack, evasion attack, poison attack, backdoor attack
 - machine unlearning
-- auditing/monitoring privacy issues of machine learning 
 
-2. week 4-7: differential privacy (dp, the standard way for protecting privacy)
+2. differential privacy (dp, the standard way for protecting privacy)
 - earlier works of k-anonymity, l-diversity and t-closeness and their limitations
 - basics of dp (definitions, compositions)
 - primitives for satisfying dp
   - Laplace mechanism, Exponential mechanism, Report-noisy-max, SVT, Gaussian mechanism
-- advanced composition
-  - strong composition, renyi dp
-- applications: hierarchical method
-- applications: marginals and generative models (privsyn and privtrace)
-- applications: graph 
-- applications: ml (dpsgd)
-
-3. week 8-10: other flavors of dp
-- local dp
-- shuffle dp
+- advanced composition, renyi dp
+- applications: hierarchical method, marginals and generative models, graph, ml (dpsgd)
+- other notions: local dp, shuffle dp
 - relaxed definition of dp 
-  - geo-indistinguishability, event-level, w-window, pufferfish, one-sided dp, label dp
+  - geo-indistinguishability, event-level, w-window, label dp
 - interaction of dp with other domains, such as fairness, usability, explanabilities
-- safe implementation of dp (and floating-point attacks to dp)
+- secure implementation of dp (and floating-point attacks to dp)
 
-4. week 11-14: privacy enhancing technologies
+3. cryptography
 - prelims of crypto: encryption, hash, message authentication, public-key encryption
-- secure multi-party computation (including review of some libraries)
-- secure multi-party computation and machine learning (libraries like aby)
-- secure multi-party computation and dp (compare with shuffle dp, honeycrisp, etc)
-- homomorphic encryption (crypte)
-- zero-knowledge proofs
-- encrypted databases
-- oblivious RAM
+- crypto-based techniques, including secure multi-party computation, homomorphic encryption (with federated learning), zero-knowledge proofs, encrypted databases, oblivious RAM, blockchain, 
 - Tor
 - secure hardware
 - quantum computer 
 
-## Schedule (tentative, subject to change), we will meet in a hybrid format (both in-person and using zoom)
+4. student-led presentations
 
-| Week |  Dates  |  Monday   |  Wednesday  |  Friday  |
-| :--: | :-----: | :-------- | :---------: | :------: |
-|  1   | Aug 22 - Aug 26  |  No Class       |  Introduction   |  Introduction   |
-|  2   | Aug 29 - Sep 2   |  ML Background  |  ML Background  |  Introduction   |
-|  3   | Sep 5 - Sep 9    |  ML Attacks     |  ML Attacks     |  Introduction   |
-|  4   | Sep 12 - Sep 16  |  ML Attacks     |  ML Attacks     |  Introduction   |
-|  5   | Sep 19 - Sep 23  |  ML Attacks     |  DP Definition  |  Introduction   |
-|  6   | Sep 26 - Sep 30  |  DP Mechanisms  |  DP Applicatio  |  Introduction   |
-|  7   | Oct 3 - Oct 7    |  No Class       |  DP Applicatns  |  Introduction   |
-|  8   | Oct 10 - Oct 14  |  DP ML          |  Local DP       |  Introduction   |
-|  9   | Oct 17 - Oct 21  |  LDP            | LDP             |  Introduction   |
-|  10  | Oct 24 - Oct 28  |  LDP            | LDP             |  Introduction   |
-|  11  | Oct 31 - Nov 4   |  LDP            | Crypto Basics   |  Introduction   |
-|  12  | Nov 7 - Nov 11   |  No Class       |  No Class       |  Introduction   |
-|  13  | Nov 14 - Nov 18  |  MPC            |  Project ation  |  Introduction   |
-|  14  | Nov 21 - Nov 25  |  Project Pre n  |  Th anksgiving  |  Introduction   |
-|  15  | Nov 28 - Dec 2   |  Project Prese  | t Presentation  |  Introduction   |
-|  16  | Dec 5 - Dec 9    |  Project Prion  |  No Class       |  Introduction   |
+## Schedule (tentative, subject to change), we will meet in person
+
+| Week |     Dates      |            Monday            |           Wednesday          |            Friday           |
+| :--: | :------------: | :---------------------------:| :---------------------------:| :--------------------------:|
+|  1   | Aug 21 - Aug 25|           No Class           |          Introduction        |     ML Preliminaries        |
+|  2   | Aug 28 - Sep 1 |        GANs & Self-Supervised Learning |  Federated Learning  |  NLP & Graph Neural Networks |
+|  3   | Sep 4 - Sep 8  |    Attacks & Basic Defenses   |  More Attacks & Defenses     |    Machine Unlearning       |
+|  4   | Sep 11 - Sep 15|   Earlier Privacy Works      |  Basics of DP (Definitions)  |  DP Primitives (Laplace, etc.) |
+|  5   | Sep 18 - Sep 22|  Advanced DP & Renyi DP      |  DP Applications             |    Local & Shuffle DP       |
+|  6   | Sep 25 - Sep 29|      Relaxed DP Definitions  | DP Interaction with Other Domains |   Secure Implementation of DP |
+|  7   | Oct 2 - Oct 6  |     Prelims of Crypto        |      Crypto-Based Techniques |           Tor                |
+|  8   | Oct 9 - Oct 13 |   Secure Hardware            |  Quantum Computer            |        Blockchain           |
+|  9   | Oct 16 - Oct 20|      Mid-Term Project Presentations        |      Mid-Term Project Presentations     |      Mid-Term Project Presentations     |
+| 10   | Oct 23 - Oct 27| Student-led Paper Presentations | Student-led Paper Presentations | Student-led Paper Presentations |
+| 11   | Oct 30 - Nov 3 | Student-led Paper Presentations | Student-led Paper Presentations |          No Class           |
+| 12   | Nov 6 - Nov 10 | Student-led Paper Presentations | Student-led Paper Presentations | Student-led Paper Presentations |
+| 13   | Nov 13 - Nov 17| Student-led Paper Presentations | Student-led Paper Presentations | Student-led Paper Presentations |
+| 14   | Nov 20 - Nov 24|      Final Presentations           |           No Class           |           No Class          |
+| 15   | Nov 27 - Dec 1 |      Final Presentations           |       Final Presentations          |       Final Presentations         |
+| 16   | Dec 4  - Dec 8 |      Final Presentations           |           No Class           |           No Class          |
