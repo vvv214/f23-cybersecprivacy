@@ -18,20 +18,21 @@ Prerequisites only include basic knowledge of coding (Python), algorithms, and p
 
 
 - Instructor: [Tianhao Wang](https://tianhao.wang)
-- Location: Dell 1 Room 104
-- Time: MWF 10am - 10:45am
+- Location: Rice 011 
+- Time: TuTh 2pm - 3:15pm
 - TA: [Mingtian Tan](wtd3gz@virginia.edu)
 - Discussion: 
   - [Course Website](https://tianhao.wang/f23-cybersecprivacy/)
   - [Canvas](https://canvas.its.virginia.edu/courses/77158) 
 - Office Hour
-  - Mingtian: TuTh 2pm-3pm Room xx, [Zoom](), and by appointment
-  - Tianhao: Fri 2pm-3pm Room 506, [Zoom](), and by appointment
+  - Mingtian: MW 2pm-3pm Room 542, [Zoom](), and by appointment
+  - Tianhao: F 2pm-3pm Room 506, [Zoom](), and by appointment
 
 
 ## Grading (tentative, subject to change): 
-- Three assignments (60%, 20% each) on (1) privacy attacks towards machine learning, (2) differential privacy (dp for short), and (3) secure multi-party computation. Theory (proofs) and practice (programming in python) will be covered in each assignment.
-- [Project](project.md) (group of 2: 40%).  Teams can utilize office hours to get feedbacks on the project. 
+- Four assignments (40%, 10% each). Theory (proofs) and practice (programming in python) will be covered in each assignment.
+- Paper presentation (20%): Each student will present a paper for 35 minutes (30min presentation plus 5min Q&A). If the slides are public or there are videos available online, it is okay to reuse the slides, but make sure you make a high-quality presentation.
+- [Project](project.md) (40%). Teams should utilize office hours to get feedbacks on the project. 
 
 ## Topics
 1. privacy and security issues in machine learning

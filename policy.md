@@ -5,9 +5,11 @@ permalink: /policy/
 
 ### Academic Integrity
 
-The School of Engineering and Applied Science relies upon and cherishes its community of trust. We firmly endorse, uphold, and embrace the University’s Honor principle that students will not lie, cheat, or steal, nor shall they tolerate those who do. We recognize that even one honor infraction can destroy an exemplary reputation that has taken years to build. Acting in a manner consistent with the principles of honor will benefit every member of the community both while enrolled in the Engineering School and in the future. Students are expected to be familiar with the university [honor code](https://honor.virginia.edu/), including the section on [academic fraud](https://honor.virginia.edu/academic-fraud). 
+We firmly endorse, uphold, and embrace the University’s Honor principle that students will not lie, cheat, or steal, nor shall they tolerate those who do. We recognize that even one honor infraction can destroy an exemplary reputation that has taken years to build. Acting in a manner consistent with the principles of honor will benefit every member of the community both while enrolled in the School and in the future. Students are expected to be familiar with the university [honor code](https://honor.virginia.edu/), including the section on [academic fraud](https://honor.virginia.edu/academic-fraud). 
 
+### On use of GenAI
 
+Utilizing Generative AI (GenAI), such as ChatGPT, can be a valuable tool for enhancing learning experiences and assisting with everyday tasks. Students are welcome to employ GenAI throughout the course and are not required to disclose its usage specifics. However, students should be aware of certain concerns tied to the use of GenAI, including privacy considerations, ethical implications, and intellectual property concerns. Students are encouraged to read the [FAQ](https://provost.virginia.edu/subsite/genai/faqs) by the Vice Provost for Faculty Affairs for more details.
 
 ### Students with disabilities or learning needs
 It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center to discuss a range of options to removing barriers in this course, including official accommodations. Please visit [their website](sdac.studenthealth.virginia.edu) for information on this process and to apply for services online. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together.
@@ -24,17 +26,6 @@ As your professor and as a person, know that I care about you and your well-bein
 
 ### Religious accommodations
 It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements. Students who wish to request academic accommodation for a religious observance should submit their request in writing directly to me (through email or Piazza private message) as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at UVAEOCR@virginia.edu or 434-924-3200.
-
-### Student support team
-You have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science offers free tutoring, and has three staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help! 
-
-Lisa Lampe, Director of Undergraduate Education (academic), ll4uu@virginia.edu 
-Blake Calhoun, Director of Undergraduate Success (academic), bic4sc@virginia.edu 
-Alex Hall, Assistant Dean of Students (non-academic issues), aec5d@virginia.edu  
-
-In addition to having an Assistant Dean of Students embedded in Engineering, we are also fortunate to have two CAPS counsellors embedded in our School. You may schedule time with Elizabeth Ramirez-Weaver or Katie Fowler through [Student Health](https://www.studenthealth.virginia.edu/getting-started-caps). When scheduling, be sure to specify that you are an Engineering student. You are also urged to use TimelyCare for either scheduled or on-demand 24/7 mental health care. 
-
-Finally, the Center for Diversity in Engineering facilitates free tutoring during the academic year, helps students locate internships and research opportunities, and connects students with the many organizations on Grounds that provide information and support. The center also engages with student organizations, particularly those serving students who are traditionally underrepresented in engineering.
 
 ### Support for your career development
 Your career development path may take you beyond the confines of UVA. Perhaps you applied for an internship and your interview is taking place in-person across the country. Maybe you submitted an abstract to a national technical conference and you have been asked to present your work. These are not only necessary steps on your path but are also invaluable lessons in and of themselves. I wish to encourage and support you in travel related to your career development. To that end, if you notify me at least one-week in advance of such an event, I will offer you the choice of either 
