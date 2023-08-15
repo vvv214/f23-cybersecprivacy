@@ -26,7 +26,7 @@ Prerequisites only include basic knowledge of coding (Python), algorithms, and p
   - [Canvas](https://canvas.its.virginia.edu/courses/77158) 
 - Office Hour
   - Mingtian: MW 2pm-3pm Room 542, [Zoom](), and by appointment
-  - Tianhao: F 2pm-3pm Room 506, [Zoom](), and by appointment
+  - Tianhao: F 2pm-3pm Room 506, [Zoom](https://virginia.zoom.us/j/92226411033?pwd=SSthSnRKZzBIQzhMbGtsNmpHU0dIUT09&from=addon), and by appointment
 
 
 ## Grading (tentative, subject to change): 
