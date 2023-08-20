@@ -9,7 +9,7 @@ The goal of this PhD-level seminar course project is to foster close collaborati
 
 ### Format
 
-Students can work individually or form groups of up to two, with the expectation of a higher amount of work for group projects. The project must be written in LaTeX (using the latest IEEEtran conference format, 10pt). The project's focus can be on research or evaluation within the following domains:
+Students are expected to work individually, or form groups of up to two, with the expectation of a significantly higher amount of work for group projects. The project must be written in LaTeX (using the latest IEEEtran conference format, 10pt). The project's focus can be on research or evaluation within the following domains:
 
  - Privacy and security in ML, including attacks and defenses
  - Differential privacy and its various aspects
@@ -25,7 +25,7 @@ Mid-Term Progressive Report (20%): A detailed report on the progress of the proj
 Final Presentation (20%): The final presentation will include comprehensive findings, contributions, and insights. Exceptional projects may lead to publication opportunities in collaboration with faculty.
 
 
-### Some ideas
+### Some Ideas
 
 Here are some prompts, but creativity is encouraged:
 

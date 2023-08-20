@@ -25,14 +25,14 @@ Prerequisites only include basic knowledge of coding (Python), algorithms, and p
   - [Course Website](https://tianhao.wang/f23-cybersecprivacy/)
   - [Canvas](https://canvas.its.virginia.edu/courses/77158) 
 - Office Hour
-  - Mingtian: MW 2pm-3pm Room 542, [Zoom](), and by appointment
+  - Mingtian: MW 2pm-3pm Room 542, [Zoom](https://us05web.zoom.us/j/81889296410?pwd=Ib0YUPNKoWja6a4gRmB8YhBdwliBfk.1), and by appointment
   - Tianhao: F 2pm-3pm Room 506, [Zoom](https://virginia.zoom.us/j/92226411033?pwd=SSthSnRKZzBIQzhMbGtsNmpHU0dIUT09&from=addon), and by appointment
 
 
 ## Grading: 
 - Two assignments (20%, 10% each). Theory (proofs) and practice (programming in python) will be covered in each assignment.
 - Paper presentation (20%): Each student will present a paper for 35 minutes (30min presentation plus 5min Q&A). If the slides are public or there are videos available online, it is okay to reuse the slides, but make sure you make a high-quality presentation.
-- [Project](project.md) (60%). Teams should utilize office hours to get feedbacks on the project. 
+- [Project](project.md) (60%). Students should utilize office hours to get feedbacks on the project. 
 
 ## Topics
 1. privacy and security issues in machine learning
